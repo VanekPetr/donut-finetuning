@@ -1,0 +1,2 @@
+transformers[sentencepiece]==4.26.0
+datasets[s3]==2.9.0
